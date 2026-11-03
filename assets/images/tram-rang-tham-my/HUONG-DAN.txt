@@ -1,0 +1,4 @@
+Bỏ ảnh ca đã hoàn thành của dịch vụ này vào thư mục này (jpg / png / webp, tên file tùy ý).
+Sau đó chạy:  python3 build.py
+Script sẽ tự đổi tên chuẩn SEO, tạo ảnh webp + thumb, và sinh lại trang thư viện ảnh.
+Ảnh gốc được chuyển vào thư mục _goc (không đưa lên web).
